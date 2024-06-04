@@ -1,0 +1,8 @@
+Python 3.x
+Pandas
+NumPy
+Seaborn
+Matplotlib
+Scikit-learn
+TensorFlow
+Dataset
