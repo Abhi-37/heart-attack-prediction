@@ -12,7 +12,6 @@ from tensorflow.keras.layers import Dense, Dropout
 
 # Load the dataset
 df = pd.read_csv("E:\Downloads\heart.csv")
-
 # Display first few rows
 print(df.head())
 
