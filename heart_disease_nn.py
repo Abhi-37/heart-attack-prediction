@@ -1,14 +1,4 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler, LabelEncoder
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score, roc_auc_score, roc_curve
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Dropout
+
 
 # Load the dataset
 df = pd.read_csv("E:\Downloads\heart.csv")
